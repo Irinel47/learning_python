@@ -9,7 +9,7 @@ This repository is my personal learning space where I document my journey in mas
 Why Python for data analysis?
 Installing Python & setting up Jupyter Notebook
 Python syntax, variables, and data types
-Chapter assesment (with solutions)
+Chapter assessment (with solutions)
 
 🔹 More chapters coming soon! I will keep updating this repository as I progress.
 
